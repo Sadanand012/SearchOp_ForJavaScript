@@ -1,0 +1,86 @@
+[
+    {
+        "name": "abc",
+        "img": "image",
+        "year": "1994",
+        "genre": ["Drama", "crime"],
+        "rating":"9.2"
+    },
+    {
+        "name": "abc",
+        "img": "image",
+        "year": "1994",
+        "genre": ["Drama", "crime"],
+        "rating":"9.2"
+    },
+    {
+        "name": "yyy",
+        "img": "image",
+        "year": "1974",
+        "genre": ["family", "crime"],
+        "rating":"2"
+    },
+    {
+        "name": "albc",
+        "img": "image",
+        "year": "1990",
+        "genre": ["sci-fi", "crime"],
+        "rating":"8.2"
+    },
+    {
+        "name": "ui",
+        "img": "image",
+        "year": "1999",
+        "genre": ["Drama", "crime"],
+        "rating":"9.2"
+    },
+    {
+        "name": "abuuc",
+        "img": "image",
+        "year": "1998",
+        "genre": ["Drama", "crime"],
+        "rating":"9.2"
+    },
+    {
+        "name": "ooo",
+        "img": "image",
+        "year": "1998",
+        "genre": ["family", "crime"],
+        "rating":"5"
+    },
+    {
+        "name": "allc",
+        "img": "image",
+        "year": "1996",
+        "genre": ["sci-fi"],
+        "rating":"7"
+    },
+    {
+        "name": "a00bc",
+        "img": "image",
+        "year": "1998",
+        "genre": ["Drama"],
+        "rating":"7"
+    },
+    {
+        "name": "abkkc",
+        "img": "image",
+        "year": "1994",
+        "genre": ["Drama"],
+        "rating":"7"
+    },
+    {
+        "name": "012y",
+        "img": "image",
+        "year": "1976",
+        "genre": ["family", "crime"],
+        "rating":"7"
+    },
+    {
+        "name": "appp",
+        "img": "image",
+        "year": "1996",
+        "genre": ["sci-fi"],
+        "rating":"7"
+    }
+]
